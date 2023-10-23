@@ -1,1 +1,1 @@
-# robbercity
+Solution to the puzzle https://www.codingame.com/training/medium/hacking-at-robbercity on PHP
